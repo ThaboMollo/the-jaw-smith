@@ -32,6 +32,11 @@ const Navigation = (props) => {
                 >
                     <ul className='nav navbar-nav navbar-right'>
                         <li>
+                            <a href='/' className='page-scroll'>
+                                Home
+                            </a>
+                        </li>
+                        <li>
                             <a href='/appointments' className='page-scroll'>
                                 Appointments
                             </a>
