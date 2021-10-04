@@ -292,7 +292,7 @@ a:focus,
 #patients-home{
   position: relative;
 }
-#patients-home .p-btns {
+.column-btns {
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -300,11 +300,39 @@ a:focus,
 #patients-home a{
   width: 250px;
   height: 40px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 600;
 }
 .img-slider{
   height: 200px;
+}
+
+/* man-ap */
+#man-ap h4{
+  font-size: 22px;
+}
+
+/* Detailed Appointment */
+#detailed-ap {
+	padding: 10px;
+}
+#detailed-ap .text{
+	display: flex;
+	flex-flow: column;
+	align-items: flex-start;
+}
+#detailed-ap h5, h3{
+	/* padding-bottom: 10px; */
+	display: inline;
+}
+#detailed-ap h3{
+	text-transform: capitalize;
+	font-size: 18px;
+	font-weight: 300;
+	padding: 0;
+}
+#detailed-ap a{
+	border-bottom: 1px solid black;
 }
 
 @media only screen and (max-width: 1200px) {

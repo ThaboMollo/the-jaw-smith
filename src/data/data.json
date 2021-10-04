@@ -1,0 +1,58 @@
+{
+    "Appointments": [
+        {
+            "subject": "Self-prescribed Proceedure",
+            "date": "02-10-2021 at 09:00",
+            "client": {
+                "id": "187x",
+                "first_name": "Lerato",
+                "last_name": "Mohale",
+                "sex": "Male",
+                "email": "lovas@gmail.com",
+                "cell_number": "0987789987",
+                "street": "187 Buitumelo street",
+                "city": "Kempton Park",
+                "province": "Gauteng",
+                "postal_code": "6969"
+            },
+            "proceedure": "Fillings",
+            "appointment_description": "I just want gold teeth"
+        },
+        {
+            "subject": "Consultation",
+            "date": "03-10-2021 at 14:00",
+            "client": {
+                "id": "187xx",
+                "first_name": "Keorapetse",
+                "last_name": "Gaba",
+                "sex": "Male",
+                "email": "Keo@gmail.com",
+                "cell_number": "0987789987",
+                "street": "187 Buitumelo street",
+                "city": "Kempton Park",
+                "province": "Gauteng",
+                "postal_code": "6969"
+            },
+            "proceedure": "Teeth Cleaning",
+            "appointment_description": "I want to was my teeth."
+        },
+        {
+            "subject": "Follow Up",
+            "date": "02-10-2021 at 15:30",
+            "client": {
+                "id": "187xxx",
+                "first_name": "Khanyisile",
+                "last_name": "Gaba",
+                "sex": "Female",
+                "email": "khany@gmail.com",
+                "cell_number": "0987789987",
+                "street": "187 Buitumelo street",
+                "city": "Kempton Park",
+                "province": "Gauteng",
+                "postal_code": "6969"
+            },
+            "proceedure": "Braces",
+            "appointment_description": "I had my braces removed 2 weeks ago and according to the dentist, I'm supposed to have a follow up today."
+        }
+    ]
+}
